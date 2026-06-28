@@ -6,7 +6,7 @@ UBC (Single Term) Course Sniper is a Python script for Windows that automates th
 
 Note: At the time of recording this demo, course registration has already opened. To clarify, this script should be run BEFORE course registration opens.
 
-https://github.com/ExxML/UBC-Single-Term-Course-Sniper/raw/main/ubc_single_term_course_sniper_demo.mp4
+https://github.com/user-attachments/assets/d016739b-9e2e-42ab-a974-2b93d06d9cc3
 
 ### ⚠️ **IMPORTANT NOTE** ⚠️
 
